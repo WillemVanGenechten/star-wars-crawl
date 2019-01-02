@@ -30,4 +30,4 @@
 - CSS-animatie voor beginners
 . Audio-tag
 
-## Project url:
+## Project url: https://willemvangenechten.github.io/star-wars-crawl/
